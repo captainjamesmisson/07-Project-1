@@ -10,5 +10,6 @@ Our goal is to utilize the Spotify API to:
         - across time, going back as far as possible
         - across R vs. D White House administrations
         - within war vs. non-war periods (i.e., Korean, Vietnam, Iraq)
+        - vs. annual unemployment rates
   
   ************ADD IDEAS WHERE APPROPRIATE************ 
