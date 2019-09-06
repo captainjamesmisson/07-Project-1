@@ -11,5 +11,8 @@ Our goal is to utilize the Spotify API to:
         - across R vs. D White House administrations
         - within war vs. non-war periods (i.e., Korean, Vietnam, Iraq)
         - vs. annual unemployment rates
+
+  - Compare current Spotify 'popularity' ratings across decades to determine if:
+        - popularity of certain decades' music persists across time
   
   ************ADD IDEAS WHERE APPROPRIATE************ 
