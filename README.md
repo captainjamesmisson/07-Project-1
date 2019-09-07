@@ -22,8 +22,11 @@ Our goal is to utilize the Spotify API to:
   Progress: 9-6-19
     - Brandon was able to create a .csv file of the historical top 100 Billboard songs from 1955 to 2018.
         This provides both the time period and popularity facts that we were looking for.
-    - We should determine if we still want to pursue the world event cause and effect on popular music or if we want to pursue the decades style approach.  In either case, it will improve the content of the presentation to make note of a few major themes of the era's highlighted to relate to the mood of the music.
+        
+    - We should determine if we still want to pursue the world event cause and effect on popular music or if we want to pursue the decades style approach.  In either case, it will improve the content of the presentation to make note of a few major themes of the eras highlighted to relate to the mood of the music.
+    
     - Brandon was able to retrieve the playlist from the same source that gave the top 100 billboard data.  If we can access these songs in spotify, we only need to pull object info about those songs now which should help to simplify what we use spotify for.  Just song characteristics for the songs chosen on the csv song list are needed.
+    
     I think we can define our next project steps as follows: (let's discuss in class)
           1. Identify time eras or events.
           2. Identify the music that represents that era.
